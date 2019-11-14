@@ -8,9 +8,12 @@ Fork the SoftwareSystemsAndServices19 repository https://github.com/AlessioBucai
 Modify the README.md file by adding her/hiw own name and surname
 Create a new pull request
 
-
 Insert your names here:
+
 Gustavo Viera López
+
 Angelo Damiani
+
 Hrishikesh Narayanankutty
+
 Simone Fioravanti
