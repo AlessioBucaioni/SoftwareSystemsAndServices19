@@ -11,6 +11,9 @@ Create a new pull request
 Insert your names here:
 
 Gustavo Viera López
+
 Angelo Damiani
+
 Hrishikesh Narayanankutty
+
 Simone Fioravanti
