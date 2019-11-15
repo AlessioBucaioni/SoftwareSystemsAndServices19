@@ -9,6 +9,7 @@ Modify the README.md file by adding her/hiw own name and surname
 Create a new pull request
 
 Insert your names here:
+Mirko Rossi
 
 Gustavo Viera López
 
